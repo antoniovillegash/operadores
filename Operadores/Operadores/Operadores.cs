@@ -10,7 +10,11 @@ namespace Operadores
     {
         static void Main(string[] args)
         {
+            Mauricio mau = new Mauricio();
+            mau.mayor();
+            mau.
 
         }
     }
+
 }
